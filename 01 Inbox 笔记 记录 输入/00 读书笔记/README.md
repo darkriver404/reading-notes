@@ -18,6 +18,10 @@ My reading notes & excerpts, including but not limited to engineering, humanitie
 > ——Allelujah
 - 自我发展
 
+[time]:<20170822>
+- 人生元编程
+
+
 # 怎么能够学好
 - 明确目标
 > “最终能学有所成，都是那些提出“想通过学习该技能找一份对应的工作”、“能够了解该行业，一边转行”等明确目标的人”
