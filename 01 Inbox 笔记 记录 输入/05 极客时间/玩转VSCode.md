@@ -7,7 +7,7 @@
 
 重视用户的选择
 >GitHub 下任 CEO Nat Friedman 给出了一个极其精彩的回答：
-Developers are really particular about their setup, and choosing an editor is one of the most personal decisions a developer makes. Languages change, jobs change, you often get a new computer or upgrade your OS, but you usually pick an editor and grow with it for years. The last thing I would want to do is take that decision away from Atom users.
+>>Developers are really particular about their setup, and choosing an editor is one of the most personal decisions a developer makes. Languages change, jobs change, you often get a new computer or upgrade your OS, but you usually pick an editor and grow with it for years. The last thing I would want to do is take that decision away from Atom users.
 
 更合适自己的工具，是程序员永恒的追求和乐趣
 >这个例子恰好说明，你不停地折腾手中的开发工具，并不意味着你“喜新厌旧”，更不是说你“闲着没事”，不断追求更适合自己的工具是整个开发者社区的共同特征，也是他们编程的乐趣之一。
@@ -46,14 +46,24 @@ Developers are really particular about their setup, and choosing an editor is on
     - [x] 下载安装VS Code
     - [x] 熟悉基础功能
         - [x] 熟悉常用快捷键
+        - [ing] 看官网介绍视频
+        - [ing] 看交互式演练场
+        - [x] 配置C#语言开发环境
+            - [x] 安装C#插件
+            - [x] 安装 [.NET CLI Tools](https://www.microsoft.com/net/learn/get-started-with-dotnet-tutorial#windowscmd)
     - [x] 浏览官网，对照编辑器选择三要素，思考下 VS Code 到底哪里做的还不错，哪里做的不如其他编辑器
-        1. 编辑效率没有VIM和Emacs高，还不清楚插件是否能支持
+        1. 编辑效率没有VIM和Emacs高，插件可以支持
         2. 目测支持，还不会配置
         3. 目测比较丰富，应该可以满足大部分需求
     - [x] 列出自己使用中的感受和迷惑的点
         - 有10个左右快捷键不清楚用法和意义
         - 和语言相关的快捷键不会使用
-        - 都有哪些配置可以自定义（theme，插件，快捷键，etc.）
+        - 都有哪些配置可以自定义
+            - 界面语言
+            - 颜色主题
+            - 文件图标主题
+            - 键盘映射 keymaps
+            - 快捷键
         - 怎么备份和移植一套配置
         - 怎么编写插件
         - 怎么对特定的开发进行配置（比如c# + unity/markdown写作）
