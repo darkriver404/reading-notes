@@ -43,6 +43,7 @@ Developers are really particular about their setup, and choosing an editor is on
 - 作业
     - [x] 下载安装VS Code
     - [ ] 熟悉基础功能
+        - [ ] 熟悉快捷键位
     - [ ] 浏览官网，对照编辑器选择三要素，思考下 VS Code 到底哪里做的还不错，哪里做的不如其他编辑器
     - [ ] 列出自己使用中的感受和迷惑的点
 
