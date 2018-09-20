@@ -36,9 +36,9 @@
     - 代码编辑器
         - 语言支持
 
-- 专栏学习目标
-    - **双手不离键盘**
-    - **从容随性 Coding**
+>- 专栏学习目标
+>    - **双手不离键盘**
+>    - **从容随性 Coding**
 
 [time]:<20180919>
 
@@ -47,7 +47,18 @@
     - [x] 熟悉基础功能
         - [x] 熟悉常用快捷键
         - [ing] 看官网介绍视频
-        - [ing] 看交互式演练场
+        - [x] 看交互式演练场
+            - [x] Multi-Cursor Editing
+            - [x] IntelliSense
+            - [x] Line Actions
+            - [x] Rename Refactoring
+            - [?] Refactoring via Extraction
+            - [x] Formatting
+            - [x] Code Folding
+            - [?] Errors and Warnings
+            - [x] Snippets
+            - [?] <del>Emmet</dekl>
+            - [?] <del>JavaScript Type Checking</del>
         - [x] 配置C#语言开发环境
             - [x] 安装C#插件
             - [x] 安装 [.NET CLI Tools](https://www.microsoft.com/net/learn/get-started-with-dotnet-tutorial#windowscmd)
