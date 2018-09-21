@@ -40,13 +40,21 @@
 >    - **双手不离键盘**
 >    - **从容随性 Coding**
 
-[time]:<20180919>
+[time]:<20180919~20180921>
 
 - 作业
     - [x] 下载安装VS Code
     - [x] 熟悉基础功能
         - [x] 熟悉常用快捷键
         - [ing] 看官网介绍视频
+            - [x] Getting started
+            - [ ] Customize
+            - [ ] Extension
+            - [ ] Code Editing
+            - [ ] IntelliSense
+            - [ ] Debugging
+            - [ ] Version Control
+
         - [x] 看交互式演练场
             - [x] Multi-Cursor Editing
             - [x] IntelliSense
